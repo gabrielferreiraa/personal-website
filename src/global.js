@@ -1,6 +1,6 @@
 export default {
     name: "Gabriel Ferreira",
-    email: "hi@gabrielferreira.dev",
+    email: "hi.gabrielferreira@gmail.com",
     job: "frontend developer",
     avatar: "https://avatars1.githubusercontent.com/u/17201177?s=460&v=4",
     medias: [
